@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpcalc", "csharpcalc\csharpcalc.csproj", "{7BE9D808-2A65-4E9B-8EC6-FCB4E356BD34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE9D808-2A65-4E9B-8EC6-FCB4E356BD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE9D808-2A65-4E9B-8EC6-FCB4E356BD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE9D808-2A65-4E9B-8EC6-FCB4E356BD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE9D808-2A65-4E9B-8EC6-FCB4E356BD34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CF2E6D-2045-435D-893E-4402812069CB}
+	EndGlobalSection
+EndGlobal
